@@ -5,10 +5,12 @@ Currently in the process of building a predictive model to develop a model with 
 
 Goals:
 
-Exploratory Data Analysis (EDA): Gain a comprehensive understanding of the dataset by examining passenger demographics (age, gender, class), travel details (embarkation point, fare), and their relation to survival.
-Pattern Recognition: Identify patterns and relationships within the data that shed light on who was more likely to survive. Did social class play a role? Were there age-related trends?
+1. Exploratory Data Analysis (EDA): Gain a comprehensive understanding of the dataset by examining passenger demographics (age, gender, class), travel details (embarkation 
+   point, fare), and their relation to survival.
+2. Pattern Recognition: Identify patterns and relationships within the data that shed light on who was more likely to survive. Did social class play a role? Were there age- 
+   related trends?
 
 Expected Outcomes:
 
-Insights into Survival: Gain valuable insights into the social and economic factors that may have influenced survival rates.
-Data Visualization: Create informative visualizations like charts and graphs to effectively communicate the discovered patterns.
+1. Insights into Survival: Gain valuable insights into the social and economic factors that may have influenced survival rates.
+2. Data Visualization: Create informative visualizations like charts and graphs to effectively communicate the discovered patterns.
